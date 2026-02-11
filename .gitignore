@@ -69,3 +69,7 @@ application-*.properties
 ##################################
 coverage/
 jacoco/
+##################################
+# React-Native / Expo / Node_modules
+##################################
+# node_modules/
